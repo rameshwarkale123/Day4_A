@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\Day4A\Day4\bin\Debug\netcoreapp3.1\Day4.exe
+C:\Users\Rameshwar kale\Day4A\Day4\bin\Debug\netcoreapp3.1\Day4.deps.json
+C:\Users\Rameshwar kale\Day4A\Day4\bin\Debug\netcoreapp3.1\Day4.runtimeconfig.json
+C:\Users\Rameshwar kale\Day4A\Day4\bin\Debug\netcoreapp3.1\Day4.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\Day4A\Day4\bin\Debug\netcoreapp3.1\Day4.dll
+C:\Users\Rameshwar kale\Day4A\Day4\bin\Debug\netcoreapp3.1\Day4.pdb
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.AssemblyInfo.cs
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.dll
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.pdb
+C:\Users\Rameshwar kale\Day4A\Day4\obj\Debug\netcoreapp3.1\Day4.genruntimeconfig.cache
